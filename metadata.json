@@ -1,0 +1,6 @@
+{
+  "name": "Rocket Arena",
+  "description": "3D competitive rocket-powered car football game with realistic physics, 10 customizable cars, 5 AI difficulty levels, 3 arenas, and real-time online private multiplayer.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
